@@ -1,0 +1,6 @@
+module Pods_ModularityFlickerDemo_ModularityFlickerDemoUITests {
+  umbrella header "Pods-ModularityFlickerDemo-ModularityFlickerDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

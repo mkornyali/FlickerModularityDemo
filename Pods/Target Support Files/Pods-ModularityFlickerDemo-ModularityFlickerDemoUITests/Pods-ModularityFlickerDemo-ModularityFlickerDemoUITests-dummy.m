@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_ModularityFlickerDemo_ModularityFlickerDemoUITests : NSObject
+@end
+@implementation PodsDummy_Pods_ModularityFlickerDemo_ModularityFlickerDemoUITests
+@end
